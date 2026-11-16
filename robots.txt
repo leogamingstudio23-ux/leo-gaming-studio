@@ -1,0 +1,7 @@
+user-agent: *
+allow: /
+
+sitemap:
+https://leogamingstudio23-ux
+.github.io/leo-gaming-studio
+/sitema.xml
